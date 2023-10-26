@@ -18,11 +18,22 @@
 ## Introduction
 
 PERSONAL INTRODUCTION:  
-My passion for data first started with football, particularly with the club I support Arsenal. I concluded that data would help me better understand the game in terms of tactics, strategies, and player actions. During my data engineering internship at Sunlife, this made much more sense and helped bring my ideas to life. I didn’t know what to expect going in, but it made me fall head over heels for data work.
+My passion for data first started with basketball, particularly with the club I support Arsenal. I concluded that data would help me better understand the game in terms of tactics, strategies and player actions. During my data engineering internship at Sunlife, this made much more sense and helped bring my ideas to life. I didn’t know what to expect going in, but it made me fall head over heels for data work.
+
+Looking ahead, I hope to work with data, perhaps for a basketball team. Whether I am working with a basketball team or by myself, I always give it my all. I’m always willing to learn more and delve deeper. 
+
+What makes me unique? Data are stories to me. Every piece of data tells us something different, just like every dish has a unique tale to tell. I think data can link people together and make things plain, much like a meal can.
+
+Arsene Wenger, the legendary arsenal manager once said “The biggest things in life have been achieved by people who, at the start we would’ve judged crazy” I am confident that I am headed towards accomplishing something truly spectacular in the field of data due to my passion and perseverance.
 
 ...
 
 ## Technical Skills
+•	Languages: HTML5, CSS, JavaScript, Java, MySQL, SQL Databases, C++, Python.  
+•	Software: MS Word, Excel, Access, Adobe Development Studio, Cisco Packet Tracer.
+•	Data Governance tools: Collibra, Splunk
+•	Frameworks & Libraries: Bootstrap, AngularJS, React, Sass.
+•	Other skills Git commands, SDLC knowledge, Database Architecture & Optimization, System analysis and design testing
 
 ...
 
