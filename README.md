@@ -100,7 +100,10 @@ Tools & Technologies Used:
 ### Comparing different Basketball Player Eras Using Historical Data 
 
 ![Lebron vs MJ](https://github.com/toluibiwoye/DataScience-and-MachineLearning-Portfolio/assets/72495445/2010a398-cb7c-4abd-a707-b157650c970d)
+
 The LeBron vs. Jordan debate is longstanding in basketball circles. However, based on our graph comparing Player Efficiency Rating (PER) and Field Goal percentage (FG%), LeBron emerges as the more efficient player. This data adds a new dimension to the discussion about who truly is the GOAT in basketball.
+
+
 ![Steph vs Stockton](https://github.com/toluibiwoye/DataScience-and-MachineLearning-Portfolio/assets/72495445/cc1e62f7-3182-42ad-8dc0-96f233cef4f8)
 
 
