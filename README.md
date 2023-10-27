@@ -119,6 +119,8 @@ Blog
 - [Data Science Portfolio Guide](https://www.springboard.com/blog/data-science/data-science-portfolio/#:~:text=A%20data%20science%20portfolio%20should,you%20think%20about%20problem%2Dsolving.)
 - [Understanding Simple Linear Regression](https://towardsdatascience.com/deep-understanding-of-simple-linear-regression-3776afe34473)
 -  [NBA Dataset](https://www.kaggle.com/datasets/patrickhallila1994/nba-data-from-basketball-reference?select=boxscore.csv)
+-  [CHAT GPT]
+-  [Jupyter Notebooks](https://www.alphr.com/vs-code-open-jupyter-notebook/)
 
 Contact Information:
 - Catherine Moloney, Lecturer - [catherine.moloney@itcarlow.ie](mailto:catherine.moloney@itcarlow.ie)
