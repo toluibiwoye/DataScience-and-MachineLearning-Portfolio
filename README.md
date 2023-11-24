@@ -87,14 +87,14 @@ Development and implementation of the Collibra tool, which enables easy data tra
 
 ### QA Testing Across Environments at Sunlife
 
-Brief Description:
+#### Brief Description:
 Quality Assurance (QA) testing that ensures data accuracy and consistency across various platforms. The project ensures easy data flow from development stages to production.
-Infrastructure:
- •	Data Storage: Sunlife's internal databases (Development, QA, Staging, and Production).
- •	Platform: Sunlife's internal testing platform.
-Tools & Technologies Used:
- •	Data-related tools: Internal QA tools.
- •	Environment Management: Tools for switching and comparing between Dev, QA, Staging, and Production.
+#### Infrastructure:
+ -	Data Storage: Sunlife's internal databases (Development, QA, Staging, and Production).
+ -	Platform: Sunlife's internal testing platform.
+#### Tools & Technologies Used:
+ -	Data-related tools: Internal QA tools.
+ -	Environment Management: Tools for switching and comparing between Dev, QA, Staging, and Production.
 
 
 ### Comparing different Basketball Player Eras Using Historical Data 
