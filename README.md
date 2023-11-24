@@ -77,12 +77,12 @@ Position Held: Data Engineer
 Brief Description:
 Development and implementation of the Collibra tool, which enables easy data transfer between Sunlife's departments. The project aims to improve report providing procedures while improving immediate data accessibility.
 #### Infrastructure:
-- [Data Storage: Multiple company databases.]
-•	Platform: Sunlife's internal data platform.
-Tools & Technologies Used:
-•	Data-related tool: Collibra
-•	Programming & Scripting: SQL for reverse engineering stored procedures.
-•	Data Import/Export: Excel for data transformation before Collibra import.
+- Data Storage: Multiple company databases.
+- Platform: Sunlife's internal data platform.
+##### Tools & Technologies Used:
+-	Data-related tool: Collibra
+-	Programming & Scripting: SQL for reverse engineering stored procedures.
+-	Data Import/Export: Excel for data transformation before Collibra import.
 
 
 ### QA Testing Across Environments at Sunlife
