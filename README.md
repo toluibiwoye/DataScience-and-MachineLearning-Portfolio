@@ -54,19 +54,19 @@ Premiere Academy, Lugbe, Abuja, Nigeria
 
 ## Work Experience
 
-Grayscare Support and Logistics LTD	  	  	  	 Jun 2021 – Jul 2021  
-Position Held: Sales Assistant
- Duties:   
-•	Write a weekly Sales report merging word and excel.
-•	Respond and engage physically or through emails and enquiries with customers.
-•	Regularly check that all the systems are up to date  
-Sunlife Financial	  	  	  	March 28  – Sept 1st  2022
+### Grayscare Support and Logistics LTD	  	  	  	 Jun 2021 – Jul 2021  
+#### Position Held: Sales Assistant
+#### Duties:   
+-	Write a weekly Sales report merging word and excel.
+-	Respond and engage physically or through emails and enquiries with customers.
+-	Regularly check that all the systems are up to date  
+### Sunlife Financial	  	  	  	March 28  – Sept 1st  2022
 Position Held: Data Engineer  
  Duties:   
-•	Promoted and put into use Collibra, a platform for effective data distribution across Sunlife departments, in collaboration with the data governance team.
-•	Handled numerous corporate databases with a focus on data security and accuracy.
-•	Reverse engineered stored procedures, simplifying SQL scripts to produce the required information.
-•	Ensured data consistency across several environments, including development, QA, staging, and production, as part of my work with the QA team.
+-	Promoted and put into use Collibra, a platform for effective data distribution across Sunlife departments, in collaboration with the data governance team.
+-	Handled numerous corporate databases with a focus on data security and accuracy.
+-	Reverse engineered stored procedures, simplifying SQL scripts to produce the required information.
+-	Ensured data consistency across several environments, including development, QA, staging, and production, as part of my work with the QA team.
 
 
 
