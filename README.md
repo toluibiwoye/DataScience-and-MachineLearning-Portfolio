@@ -121,6 +121,25 @@ This bar chart showcases the top NBA players in different positions based on the
 
 ![image](https://github.com/toluibiwoye/DataScience-and-MachineLearning-Portfolio/assets/72495445/080ef785-f73b-49bd-8591-fdf84b386717)
 
+The chart displays the best players from various NBA teams ranked by their Player Efficiency Rating (PER). It spans a wide array of teams with the players' names listed along the bottom. Each vertical bar represents a player's PER, with the highest achievers like Lamar Odom and J.J. Redick standing out. This visual representation serves to compare the top-performing players within their respective teams, providing a clear comparison of individual contributions and impact.
+
+![image](https://github.com/toluibiwoye/DataScience-and-MachineLearning-Portfolio/assets/72495445/5f0a1d57-b4ae-46b3-8350-2c20afe192ec)
+
+This scatter plot compares the Field Goals (FG) and Player Efficiency Rating (PER) between Giannis Antetokounmpo, Tim Duncan, and Kevin Garnett. The horizontal axis measures FG from 0 to 17.5, while the vertical axis shows PER from -10 to 50. Antetokounmpo's data is in purple, Duncan's in orange, and Garnett's in green. The spread and density of the points offer a statistical insight into their performance, contrasting Antetokounmpo's modern dynamism with Duncan and Garnett's consistent excellence over their careers.
+
+![image](https://github.com/toluibiwoye/DataScience-and-MachineLearning-Portfolio/assets/72495445/c24889dd-d842-4d79-98a9-65775c6a6a3f)
+
+The scatter plot illustrates a comparison of Field Goals (FG) and Player Efficiency Rating (PER) between Shaquille O'Neal, represented in red, and Dwight Howard, in green. The horizontal axis displays FGs up to 25, while the vertical axis shows PER up to 40. The distribution of points allows for analysis of both players' performance metrics, offering a visual comparison of two dominant centers from different NBA eras.
+
+![image](https://github.com/toluibiwoye/DataScience-and-MachineLearning-Portfolio/assets/72495445/580e2c6d-1e2c-4293-ac08-1bede3005f9c)
+
+The scatter plot contrasts the Field Goals (FG) and Player Efficiency Rating (PER) of Kobe Bryant, in purple, against James Harden, in orange. Displayed along the horizontal axis are FGs up to 25, and the vertical axis lists PERs from below 0 to above 50. The pattern of dots reflects the scoring prowess and efficiency of two of basketball's elite guards who put up crazy numbers in their prime, allowing for comparison of their performance over their respective careers
+
+![image](https://github.com/toluibiwoye/DataScience-and-MachineLearning-Portfolio/assets/72495445/071771cb-fc46-4465-a034-1d43850de416)
+
+
+This code illustrates the use of pandas to load a basketball game box score CSV file and matplotlib to plot a scatter plot. It filters the data for players Kobe Bryant and James Harden, converts their 'Player Efficiency Rating' (PER) and 'Field Goals' (FG) to numeric types, and plots these metrics on a scatter plot, with Kobe's data in purple and Harden's in orange. The plot is labeled and titled to compare the FG and PER between the two players.
+
 
 
 
