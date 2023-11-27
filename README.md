@@ -128,6 +128,10 @@ Blog
 -  [NBA Dataset](https://www.kaggle.com/datasets/patrickhallila1994/nba-data-from-basketball-reference?select=boxscore.csv)
 -  [CHAT GPT]
 -  [Jupyter Notebooks](https://www.alphr.com/vs-code-open-jupyter-notebook/)
+-  [ Idxmax method]https://www.w3schools.com/python/pandas/ref_df_idxmax.asp#:~:text=The%20idxmax()%20method%20returns,maximum%20value%20for%20each%20row
+-  [groupby function]https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.groupby.html
+-  [pandas]https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.idxmax.html
+-  [pandas] https://www.geeksforgeeks.org/python-pandas-dataframe-groupby/
 
 Contact Information:
 - Catherine Moloney, Lecturer - [catherine.moloney@itcarlow.ie](mailto:catherine.moloney@itcarlow.ie)
