@@ -99,6 +99,8 @@ Quality Assurance (QA) testing that ensures data accuracy and consistency across
 
 ### Comparing different Basketball Player Eras Using Historical Data 
 
+![Cleaning the dataset](https://github.com/toluibiwoye/DataScience-and-MachineLearning-Portfolio/assets/72495445/509e1b5f-1dc0-40a5-a8ac-92120e40d40b)
+
 ![Lebron vs MJ](https://github.com/toluibiwoye/DataScience-and-MachineLearning-Portfolio/assets/72495445/2010a398-cb7c-4abd-a707-b157650c970d)
 
 The LeBron vs. Jordan debate is longstanding in basketball circles. However, based on our graph comparing Player Efficiency Rating (PER) and Field Goal percentage (FG%), Jordan emerges as the more efficient player. This data adds a new dimension to the discussion about who truly is the GOAT in basketball.
@@ -111,6 +113,10 @@ The graph compares the shooting efficiency of modern sharpshooter Stephen Curry 
 ![Best NBA player in each position based on efficiency rate](https://github.com/toluibiwoye/DataScience-and-MachineLearning-Portfolio/assets/72495445/06e409a0-5c90-406c-a8e0-fa5eea301589)
 
 This bar chart showcases the top NBA players in different positions based on their Player Efficiency Rating (PER). From left to right, we see the best performers in positions: Center (C), Power Forward (PF), Small Forward (SF), Shooting Guard (SG), and Point Guard (PG). This sheds a different light on how I now see the game because you may scoring the most points, getting the most assists or racking up the most boards. All does not mean you are efficient it also takes into account how rounded your game is Field percentage, turnovers etc. Some players will have also played more games than others which would bring their efficiency down.
+
+
+
+
 
 
 ## Additional Section
