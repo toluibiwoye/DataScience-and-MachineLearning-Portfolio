@@ -141,6 +141,8 @@ The scatter plot contrasts the Field Goals (FG) and Player Efficiency Rating (PE
 
 This code illustrates the use of pandas to load a basketball game box score CSV file and matplotlib to plot a scatter plot. It filters the data for players Kobe Bryant and James Harden, converts their 'Player Efficiency Rating' (PER) and 'Field Goals' (FG) to numeric types, and plots these metrics on a scatter plot, with Kobe's data in purple and Harden's in orange. The plot is labeled and titled to compare the FG and PER between the two players.
 
+[Google Collab Access]https://colab.research.google.com/drive/11xsX1llPt32-5icMyoP_8KPLB0wiwBRe?usp=sharing
+
 
 
 
