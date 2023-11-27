@@ -119,6 +119,8 @@ The graph compares the shooting efficiency of modern sharpshooter Stephen Curry 
 
 This bar chart showcases the top NBA players in different positions based on their Player Efficiency Rating (PER). From left to right, we see the best performers in positions: Center (C), Power Forward (PF), Small Forward (SF), Shooting Guard (SG), and Point Guard (PG). This sheds a different light on how I now see the game because you may scoring the most points, getting the most assists or racking up the most boards. All does not mean you are efficient it also takes into account how rounded your game is Field percentage, turnovers etc. Some players will have also played more games than others which would bring their efficiency down.
 
+![image](https://github.com/toluibiwoye/DataScience-and-MachineLearning-Portfolio/assets/72495445/080ef785-f73b-49bd-8591-fdf84b386717)
+
 
 
 
