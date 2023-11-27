@@ -108,7 +108,7 @@ The LeBron vs. Jordan debate is longstanding in basketball circles. However, bas
 
 The graph compares the shooting efficiency of modern sharpshooter Stephen Curry against traditional playmaker John Stockton. My goal is to compare Curry's high-volume scoring, shown in green, with Stockton's consistency, marked in purple, juxtaposing a modern scorer with an old-school passer. This visual debate mirrors comparisons of past and present basketball point guard styles, as we are seeing the game evolve into point guards taking a lot more shots rather than making plays.
 
-![Best NBA player in each position based on efficiency rate]((https://github.com/toluibiwoye/DataScience-and-MachineLearning-Portfolio/assets/72495445/06e409a0-5c90-406c-a8e0-fa5eea301589)
+![Best NBA player in each position based on efficiency rate](https://github.com/toluibiwoye/DataScience-and-MachineLearning-Portfolio/assets/72495445/06e409a0-5c90-406c-a8e0-fa5eea301589)
 )
 
 
