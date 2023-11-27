@@ -150,8 +150,10 @@ This code illustrates the use of pandas to load a basketball game box score CSV 
 
 ![image](https://github.com/toluibiwoye/DataScience-and-MachineLearning-Portfolio/assets/72495445/6a422e88-7a3f-43d6-bca9-e970aef114b3)
 ### Original
+
 ![image](https://github.com/toluibiwoye/DataScience-and-MachineLearning-Portfolio/assets/72495445/825ff2e1-33e0-4104-8388-a1c61d948a44) ![image](https://github.com/toluibiwoye/DataScience-and-MachineLearning-Portfolio/assets/72495445/5b103c20-e6a7-4162-b13d-b6da773fa3d0)
 ### Edited
+
 ![image](https://github.com/toluibiwoye/DataScience-and-MachineLearning-Portfolio/assets/72495445/1aca610c-129a-4665-a3ea-eb9ca5eccbe9)
 
 
