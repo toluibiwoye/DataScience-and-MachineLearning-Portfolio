@@ -99,7 +99,7 @@ Quality Assurance (QA) testing that ensures data accuracy and consistency across
 
 ### Comparing different Basketball Player Eras Using Historical Data 
 
-### Cleaning the Dataset
+#### Cleaning the Dataset
 This is how we clean the dataset
 
 ![Cleaning the dataset](https://github.com/toluibiwoye/DataScience-and-MachineLearning-Portfolio/assets/72495445/509e1b5f-1dc0-40a5-a8ac-92120e40d40b)
