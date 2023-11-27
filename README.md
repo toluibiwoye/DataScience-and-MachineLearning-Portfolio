@@ -147,6 +147,11 @@ This code illustrates the use of pandas to load a basketball game box score CSV 
 ### Decision Trees and Random Forests
 [Original Notebook](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.08-Random-Forests.ipynb)
 [Edited Notebook](https://colab.research.google.com/drive/1_K5YgGix_L-_YWfbJ72wZ6nabAQNzEme#scrollTo=mSgqsRFijmeR)
+![image](https://github.com/toluibiwoye/DataScience-and-MachineLearning-Portfolio/assets/72495445/825ff2e1-33e0-4104-8388-a1c61d948a44) ![image](https://github.com/toluibiwoye/DataScience-and-MachineLearning-Portfolio/assets/72495445/5b103c20-e6a7-4162-b13d-b6da773fa3d0)
+
+
+
+
 
 
 
