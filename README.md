@@ -102,11 +102,10 @@ Quality Assurance (QA) testing that ensures data accuracy and consistency across
 Comparing the excellence of players from different eras is a topic of considerable controversy and curiosity in the ever-changing game of basketball. The game has seen radical transformations in the last 20 years, evolving from the physicality of the 1990s to the pace-and-space age of the present. Through the use of an extensive dataset spanning more than 20 years, we are able to examine and contrast the performance measures of basketball players from various historical periods. This method enables us to analyse the subtleties of the game that are captured by statistics, such as player effect and scoring efficiency, giving the age-old debate of which players stand out historically a quantitative foundation. We seek to provide insights by bridging the gap between various eras of basketball through careful data analysis.
 
 #### Cleaning the Dataset
-This is how we clean the dataset
 
 ![Cleaning the dataset](https://github.com/toluibiwoye/DataScience-and-MachineLearning-Portfolio/assets/72495445/509e1b5f-1dc0-40a5-a8ac-92120e40d40b)
 
-
+The code snippet demonstrates data cleaning steps using pandas in Python. It loads a CSV file containing basketball box score data, prints the first 23 rows to view initial data, and then performs cleaning by removing rows where the 'PER' column is empty, contains a placeholder value "#VALUE!", or where the 'MP' column indicates the player was not available for the game. The cleaned data frame is then printed to confirm the changes.
 
 ![Lebron vs MJ](https://github.com/toluibiwoye/DataScience-and-MachineLearning-Portfolio/assets/72495445/2010a398-cb7c-4abd-a707-b157650c970d)
 
