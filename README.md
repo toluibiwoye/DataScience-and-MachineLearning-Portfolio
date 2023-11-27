@@ -157,16 +157,11 @@ In the updated Jupyter notebook, I've implemented several key changes to the ori
 ![image](https://github.com/toluibiwoye/DataScience-and-MachineLearning-Portfolio/assets/72495445/825ff2e1-33e0-4104-8388-a1c61d948a44) ![image](https://github.com/toluibiwoye/DataScience-and-MachineLearning-Portfolio/assets/72495445/5b103c20-e6a7-4162-b13d-b6da773fa3d0)
 ### Edited
 
-![image](https://github.com/toluibiwoye/DataScience-and-MachineLearning-Portfolio/assets/72495445/1aca610c-129a-4665-a3ea-eb9ca5eccbe9)
-
 ![image](https://github.com/toluibiwoye/DataScience-and-MachineLearning-Portfolio/assets/72495445/400657ee-95f4-4d5d-a0b2-acc68b99470f)
 ### Original
 
-
-
-
-
-
+![image](https://github.com/toluibiwoye/DataScience-and-MachineLearning-Portfolio/assets/72495445/824126d8-ed56-4291-9deb-c81e1644d818) ![image](https://github.com/toluibiwoye/DataScience-and-MachineLearning-Portfolio/assets/72495445/029afe3a-3e77-474b-b2d0-82b79410a080) ![image](https://github.com/toluibiwoye/DataScience-and-MachineLearning-Portfolio/assets/72495445/1ef403d8-20e7-45a4-bab5-4c7a74ef9e51)
+### Edited
 
 ## Additional Section
 
