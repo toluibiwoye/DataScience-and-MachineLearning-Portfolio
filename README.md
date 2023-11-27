@@ -99,7 +99,7 @@ Quality Assurance (QA) testing that ensures data accuracy and consistency across
 
 ### Comparing different Basketball Player Eras Using Historical Data 
 
-#### [Google Collab Access].(#https://colab.research.google.com/drive/11xsX1llPt32-5icMyoP_8KPLB0wiwBRe?usp=sharing).
+#### ![Google Collab Access](https://colab.research.google.com/drive/11xsX1llPt32-5icMyoP_8KPLB0wiwBRe?usp=sharing)
 
 Comparing the excellence of players from different eras is a topic of considerable controversy and curiosity in the ever-changing game of basketball. The game has seen radical transformations in the last 20 years, evolving from the physicality of the 1990s to the pace-and-space age of the present. Through the use of an extensive dataset spanning more than 20 years, we are able to examine and contrast the performance measures of basketball players from various historical periods. This method enables us to analyse the subtleties of the game that are captured by statistics, such as player effect and scoring efficiency, giving the age-old debate of which players stand out historically a quantitative foundation. We seek to provide insights by bridging the gap between various eras of basketball through careful data analysis.
 
@@ -143,7 +143,7 @@ The scatter plot contrasts the Field Goals (FG) and Player Efficiency Rating (PE
 
 This code illustrates the use of pandas to load a basketball game box score CSV file and matplotlib to plot a scatter plot. It filters the data for players Kobe Bryant and James Harden, converts their 'Player Efficiency Rating' (PER) and 'Field Goals' (FG) to numeric types, and plots these metrics on a scatter plot, with Kobe's data in purple and Harden's in orange. The plot is labeled and titled to compare the FG and PER between the two players.
 
-[Google Collab Access]https://colab.research.google.com/drive/11xsX1llPt32-5icMyoP_8KPLB0wiwBRe?usp=sharing
+
 
 
 
