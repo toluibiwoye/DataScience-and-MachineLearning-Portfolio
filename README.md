@@ -145,6 +145,9 @@ This code illustrates the use of pandas to load a basketball game box score CSV 
 
 
 ### Decision Trees and Random Forests
+
+In the updated Jupyter notebook, I've implemented several key changes to the original Decision Tree model to explore different tree complexities, robustness, and overall prediction accuracy. Specifically, I adjusted the max_depth parameter to 10 to allow the tree to capture more complex patterns in the data, and set min_samples_leaf to 4 to reduce overfitting by ensuring that leaf nodes have a sufficient number of samples. The splitter parameter was changed to 'random' to introduce more variability in the tree structure, which can sometimes lead to better generalization on unseen data. Moreover, I've introduced a new accuracy evaluation step after predictions to quantify model performance more precisely. These modifications are part of a broader exploration to see if we can improve the algorithm's performance or make it behave differently for varied datasets or under different constraints.
+
 [Original Notebook](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.08-Random-Forests.ipynb)
 [Edited Notebook](https://colab.research.google.com/drive/1_K5YgGix_L-_YWfbJ72wZ6nabAQNzEme#scrollTo=mSgqsRFijmeR)
 
@@ -156,7 +159,8 @@ This code illustrates the use of pandas to load a basketball game box score CSV 
 
 ![image](https://github.com/toluibiwoye/DataScience-and-MachineLearning-Portfolio/assets/72495445/1aca610c-129a-4665-a3ea-eb9ca5eccbe9)
 
-
+![image](https://github.com/toluibiwoye/DataScience-and-MachineLearning-Portfolio/assets/72495445/400657ee-95f4-4d5d-a0b2-acc68b99470f)
+### Original
 
 
 
